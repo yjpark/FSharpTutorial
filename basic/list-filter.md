@@ -16,13 +16,13 @@ Write a function to count how many positive numbers in it
 
 ```fsharp
 let countPositive = fun (input : int list) ->
-	    // add logic here, and leave the result as last line
+    // add logic here, and leave the result as last line
     input.Length
 ```
 
 ```fsharp
 let runTest = fun (input : int list) ->
-	    printfn "input = %A" input
+    printfn "input = %A" input
     printfn "output = %d" <| countPositive input
 ```
 
