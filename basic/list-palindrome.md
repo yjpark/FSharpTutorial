@@ -22,12 +22,13 @@ Write a function to check whether the input list is palindrome.
 
 ```fsharp
 let isPalindrome = fun (input : int list) ->
-	    true
+    // add logic here, and leave the result as last line
+    true
 ```
 
 ```fsharp
 let runTest = fun (input : int list) ->
-	    printfn "input = %A" input
+    printfn "input = %A" input
     printfn "output = %A" <| isPalindrome input
 ```
 

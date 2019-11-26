@@ -8,6 +8,7 @@
 ## Language Basic
 * [List Filter](basic/list-filter.md)
 * [List Palindrome](basic/list-palindrome.md)
+* [List Count](basic/list-count.md)
 
 ## Links
 
